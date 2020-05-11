@@ -16,10 +16,10 @@ void setup() {
   
 // 2. The code below loads your face picture into the program. 
 //     Make sure the file name is correct for the face image you saved earlier
-face = loadImage("face.jpg");
+face = loadImage("face.jpeg");
   
 // 3. Set the size of the sketch. Make it big enough to show the face you chose.
-
+size(700,700);
 // 4. Resize the face so it is the same size as the sketch
 
 // 5. Drag and drop an image with a mustache onto this sketch. 
